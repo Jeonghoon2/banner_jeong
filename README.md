@@ -1,6 +1,6 @@
 # banner_jeong
 
-## descript
+## description
 여러가지 기술을 사용하는 커맨드의 모음집 
 
 ## install
