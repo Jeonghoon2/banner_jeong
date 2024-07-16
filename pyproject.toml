@@ -18,3 +18,7 @@ show-banner = 'banner_jeong.banner:show'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Homepage="https://github.com/Jeonghoon2/banner_jeong"
+Issues="https://github.com/Jeonghoon2/banner_jeong/issues"
