@@ -14,8 +14,8 @@ license = {text = "MIT"}
 
 [project.scripts]
 show-banner = 'banner_jeong.banner:show'
-
-
+pic = 'banner_jeong.banner:pic'
+lotto = 'banner_jeong.banner:lotto'
 [tool.pdm]
 distribution = true
 
