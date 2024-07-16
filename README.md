@@ -19,12 +19,12 @@ $ show-banner
 ```bash
 $ lotto
 ```
-
+<img width="764" alt="스크린샷 2024-07-16 오후 2 33 29" src="https://github.com/user-attachments/assets/dfe6bbde-cab9-4be0-8890-4037c6426dad">
 ### 특정 그림 형태로 표출
 ```bash
 $ pic
 ```
-- 해당 커맨드를 터미널에서 치면 아래와 같은 결과를 얻을 수 있습니다.
+<img width="772" alt="image" src="https://github.com/user-attachments/assets/28190b1e-3d9d-4121-9c19-68db560df033">
 
 <img width="598" alt="스크린샷 2024-07-16 오전 11 44 22" src="https://github.com/user-attachments/assets/22c63cee-d01c-465f-a478-a5b8fce6d9d9">
 
