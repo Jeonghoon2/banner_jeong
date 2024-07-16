@@ -1,4 +1,5 @@
-def show():
+def show(text):
     from pyfiglet import Figlet
     f = Figlet(font='slant')
-    print(f.renderText('text to render'))
+    print(f.renderText(text))
+
